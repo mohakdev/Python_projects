@@ -1,0 +1,14 @@
+# Ctrl + x = Cut
+# Ctrl + c = copy
+# Ctrl + v = paste
+# Ctrl + shift + enter = insert empty line above
+# alt + up_arror/down_arrow = move line up/down
+# shift + alt + up_arror/down_arrow = copy line up/down
+# Ctrl + shift + k = delete line
+# Ctrl + k chord to Ctrl + c = comment a line 
+# Ctrl + u = undo 
+# alt + y = run file in terminal 
+# Ctrl + alt + up_arror/down_arrow = cursor becomes of multiple lines in up or down direction.
+
+
+ 
